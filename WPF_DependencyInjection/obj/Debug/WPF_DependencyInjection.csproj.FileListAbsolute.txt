@@ -1,0 +1,15 @@
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.csprojAssemblyReference.cache
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\App.g.cs
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection_MarkupCompile.cache
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection_MarkupCompile.lref
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\bin\Debug\WPF_DependencyInjection.exe.config
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\bin\Debug\WPF_DependencyInjection.exe
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\bin\Debug\WPF_DependencyInjection.pdb
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.g.resources
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.Properties.Resources.resources
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.csproj.GenerateResource.cache
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.exe
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\WPF_DependencyInjection.pdb
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\View\MainWindow.g.cs
+C:\Users\Cwaniak\source\repos\WPF_DependencyInjection\WPF_DependencyInjection\obj\Debug\View\MainWindow.baml

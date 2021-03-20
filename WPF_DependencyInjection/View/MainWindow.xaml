@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_DependencyInjection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DependencyInjection"
+        xmlns:vm="clr-namespace:WPF_DependencyInjection.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Button Name="AttentionAlert"
+                        Height="50"
+                        Width="100"
+                        Content="Attention Alert"
+                        Command="{Binding AttentionAlert}"/>
+            </Grid>
+        <Grid Grid.Column="1">
+            <Button Name="InfoAlert"
+                        Height="50"
+                        Width="100"
+                        Content="Information Alert"
+                        Command="{Binding InfoAlert}"/>
+        </Grid>
+    </Grid>
+</Window>
